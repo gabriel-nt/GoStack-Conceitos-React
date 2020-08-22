@@ -51,7 +51,7 @@ $ yarn start
 $ yarn test
 ```
 
-### :rocket: Tecnologias
+### 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -59,7 +59,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Axios
 - Jest
 
-### :memo: Licença
+### 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
